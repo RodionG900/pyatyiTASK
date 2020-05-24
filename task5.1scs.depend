@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1559044457 source:c:\users\dns\desktop\task5.1scs\main.cpp
+	<iostream>
+
+1590175190 source:c:\users\rodio\desktop\Семестр 2\task5.1scs\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+
+1590319910 source:c:\users\rodio\desktop\Семестр 2\task5\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+
